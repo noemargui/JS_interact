@@ -17,8 +17,7 @@
 
 # Les 9 commandements
 
- 1. Le footer Clique<br>
- 1-bis. Le footer Clique numéroté 
+ 1. Le footer Clique  +  1-bis. Le footer Clique numéroté 
  2. Le Hamburger Menu + frites coca 
  3. Le Edit rouge
  4. Le Edit vert
