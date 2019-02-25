@@ -89,6 +89,30 @@ function function_8() {
   });
 }
 
+function function_9() {
+  let page_logo = document.getElementsByClassName('navbar-brand')[0];
+  let body = document.getElementsByTagName('body')[0];
+
+  page_logo.addEventListener("keypress", function(event) {
+    event.preventDefault();
+    let press = event.key
+    if (press == "a") {
+      body.classList = "";
+      body.classList.add("col-md-4");
+    } else if (press == "y") {
+      body.classList = "";
+      body.classList.add("col-md-4");
+      body.classList.add("offset-md-4");
+    } else if (press == "p") {
+      body.classList = "";
+      body.classList.add("col-md-4");
+      body.classList.add("offset-md-8");
+    } else if (press == "b") {
+      body.classList = "";
+    }
+  });
+}
+
 function_1();
 function_1_bis();
 function_2();
@@ -98,3 +122,4 @@ function_5();
 function_6();
 function_7();
 function_8();
+function_9();
