@@ -11,13 +11,13 @@
 # Mode d'emploi
 
  1. Mets toi du [Gainsbourg](https://www.youtube.com/watch?v=V6gjzNm6dA0) dans les oreilles
- 2. Ouvre `exo_events.html`  dans ton navigateur, ou le lien en production **la-javanaise.surge.sh**
+ 2. Ouvre `exo_events.html`  dans ton navigateur, ou le lien en [production](www.la-javanaise.surge.sh)
  3. Ouvre l'inspecteur avec  `F12`  puis onglet "console" sous Linux, ou  `OPTION`  +  `CMD`  +  `J` sous Mac
  4. Ouvre l'oeil sur les messages de console et sur les changements liés au JavaScript
 
-# Les 10 commandements
+# Les 9 commandements
 
- 1. Le footer Clique
+ 1. Le footer Clique<br>
  1-bis. Le footer Clique numéroté 
  2. Le Hamburger Menu + frites coca 
  3. Le Edit rouge
